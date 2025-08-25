@@ -134,9 +134,9 @@ No modifications have been made to any third-party libraries. All libraries are 
 
 For support, feature requests, or bug reports related to this plugin:
 
-- **Website**: https://krisu.ai
-- **Documentation**: https://krisu.ai/docs
-- **Support Portal**: Available after sign-up at https://krisu.ai
+- **Website**: https://www.krisu.ai
+- **Documentation**: https://www.krisu.ai/guide/intellij-plugin
+- **Support Portal**: Available after sign-up at https://www.krisu.ai
 - **Email**: support@krisu.ai
 
 ## Legal Information

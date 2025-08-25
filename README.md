@@ -2,6 +2,15 @@
 
 A powerful IntelliJ plugin for web element analysis, locator generation, and framework code export.
 
+## Privacy & Security
+
+- Privacy-first design with local-only processing. No telemetry or usage analytics.
+- Playwright network access loads the page you enter directly. No requests go to Krisu servers.
+- Bundled binaries (element extraction and framework export) include SHA-256 hashes for integrity verification.
+- Exports are written to `element-maps/`, `framework-maps/`, and `exports/` within your current workspace.
+
+Documentation: https://www.krisu.ai/guide/intellij-plugin
+
 ## Features
 
 - **Web Page Scanning**: Scan web pages using Playwright for element discovery
@@ -149,7 +158,7 @@ src/main/kotlin/com/krisu/elementinsight/
 
 ## License
 
-This plugin is distributed under the MIT License. For complete license information and third-party attributions, see:
+This plugin is distributed under the proprietary Element Insight End-User License Agreement (EULA). For complete license information and third-party attributions, see:
 
 - [LICENSE](LICENSE) - Main plugin license
 - [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) - Complete third-party licenses
